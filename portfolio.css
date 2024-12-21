@@ -972,7 +972,7 @@ footer {
 
     .about-info,
     .contact-info {
-        width: 30px;
+        width: 100%;
     }
 }
 
