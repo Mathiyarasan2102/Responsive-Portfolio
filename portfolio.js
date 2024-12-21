@@ -21,7 +21,7 @@ const body = document.querySelector("body"),
     /*-------------Typing Effect--------------*/
 
     var typingEffect = new Typed(".typedText", {
-        strings: ["Fresher","Designer", "Coder","Developer"],
+        strings: ["Fresher","Designer","Coder","Developer"],
 
         loop:true,
         typeSpeed: 100,
